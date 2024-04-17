@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    border: 1px solid rgb(158, 155, 155);
+    width: 300px;
+    border-radius: 7px;
+    /* justify-content: center; */
+    padding: 15px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    flex-wrap: wrap;
+    /* padding-bottom: 30px; */
+    position: relative;
+    bottom: 35px;
+   
+    
+
+}    
